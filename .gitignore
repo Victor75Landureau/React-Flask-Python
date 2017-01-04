@@ -1,2 +1,4 @@
 React-Flask-Python-env
 *.pyc
+node_modules
+project/static/bower_components

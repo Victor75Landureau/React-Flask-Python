@@ -1,0 +1,22 @@
+{
+  "name": "react-flask-python",
+  "version": "1.0.0",
+  "description": "Application web React + Flask + Python3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor75Landureau/React-Flask-Python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor75Landureau/React-Flask-Python/issues"
+  },
+  "homepage": "https://github.com/Victor75Landureau/React-Flask-Python#readme",
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
+}
