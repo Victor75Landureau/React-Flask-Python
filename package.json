@@ -23,9 +23,12 @@
     "gulp-browser": "^3.0.4",
     "gulp-size": "^2.1.0",
     "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.1",
     "reactify": "^1.1.1"
   },
   "dependencies": {
-    "react-nav-bar": "^0.6.4"
+    "react-dom": "^15.4.1",
+    "react-nav-bar": "^0.6.4",
+    "react-router": "^3.0.0"
   }
 }

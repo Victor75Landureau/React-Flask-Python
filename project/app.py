@@ -16,6 +16,10 @@ def hello():
 def nav():
     return render_template('nav.html')
 
+@app.route('/layout')
+def layout():
+    return render_template('layout.html')
+
 
 if __name__ == '__main__':
     app.run(debug=True)
