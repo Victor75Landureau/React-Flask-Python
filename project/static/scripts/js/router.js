@@ -6,7 +6,7 @@ var MainLayout = React.createClass({displayName: "MainLayout",
     return (
       React.createElement("div", {className: "app"}, 
         React.createElement("header", {className: "primary-header"}), 
-        React.createElement("aside", {className: "primary-aside"}, 
+        React.createElement("navbar", {className: "primary-aside"}, 
           React.createElement("ul", null, 
             React.createElement("li", null, React.createElement(Link, {to: "/"}, "Home")), 
             React.createElement("li", null, React.createElement(Link, {to: "/users"}, "Users")), 
